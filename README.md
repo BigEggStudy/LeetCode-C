@@ -1,11 +1,8 @@
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-c.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-c)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-4-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-C)
+
 # LeetCode
 The C solutions for LeetCode problems.
-
-### Algorithm
-
-| Languages | Build Status | Solved Problems |
-| --------- | ------------ | --------------- |
-|C|[![Windows Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-e5dh1.svg?style=flat-square&label=Windows%20Build)](https://ci.appveyor.com/project/BigEgg/leetcode-e5dh1)|[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-4-blue.svg?style=flat-square)](https://github.com/BigEgg/LeetCode/tree/C)|
 
 ## Problems
 
